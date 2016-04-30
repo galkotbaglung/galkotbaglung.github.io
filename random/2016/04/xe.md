@@ -8,9 +8,10 @@
 	<title>Heartily Welcome!</title>
 
 	<link rel="stylesheet" href="/css/main.css">
-	<link rel="canonical" href="http://galkot.top/random/2016/04/27/welcome-to-jekyll.html">
+	<link rel="canonical" href="http://galkot.top/random/2016/04/27/welcome.html">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
 </head> 
 
@@ -20,6 +21,7 @@
     <nav>
       <ul>
          
+         <li><a href="/index/">Home</a></li>
         <li><a href="/about/">About</a></li>
                  
         <li><a href="/blog">Blog</a></li>
@@ -31,27 +33,41 @@
 </aside>
 
 <header>
-  <h1><a href="">Galkot</a></h1>
+  <h1>Galkot's Blog</h1>
 </header>
   <main>
     <article>
       <h2>Heartily Welcome!</h2>
 <time>Apr 27, 2016</time>
 
-
+<p align="justify">
 <figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="no">You</span> <span class="n">are</span> <span class="n">welcome</span> <span class="n">to</span> <span class="n">the</span> <span class="n">brand</span> <span class="kp">new</span> <span class="n">site</span> <span class="n">of</span> <span class="no">Galkot</span><span class="o">.</span>
 <span class="no">This</span> <span class="n">site</span> <span class="n">will</span> <span class="n">be</span> <span class="n">made</span> <span class="n">more</span> <span class="n">informative</span> <span class="n">and</span> <span class="n">interactive</span> <span class="k">in</span> <span class="n">the</span> <span class="n">days</span> <span class="n">to</span> <span class="n">come</span><span class="o">.</span> 
 
 <span class="no">Keep</span> <span class="no">Visiting</span><span class="o">!</span>
 
  <span class="no">Love</span> <span class="no">Galkot</span><span class="o">!</span></code></pre></figure>
-
+</p>
 
     </article>
+
+    </main>
     <footer>
-  <p>By <a href="http://galkot.top">Galkot</p>
+      
+  <p>By <a href="http://galkot.top">Galkot</a></p>
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <a href="https://www.facebook.com/golkot"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+   &nbsp;&nbsp;&nbsp;
+
+   <a href="https://www.youtube.com/galkotbaglung1"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+&nbsp;&nbsp;&nbsp
+
+  <a href="https://www.github.com/galkotbaglung"><i class="fa fa-github" aria-hidden="true"></i></a>
 </footer>
-  </main>
+  
 </body>
 
 </html>
